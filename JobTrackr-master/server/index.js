@@ -27,6 +27,8 @@ import errorMiddleware from "./middlewares/errorMiddleware.js";
 //DOT ENV config
 dotenv.config();
 
+
+// only for mongodb purpose
 //mongodb connection
 connectDb();
 
